@@ -11,7 +11,13 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Planning ddefining project scope objectives and feasibility
+Requirement analysis gathering and anaalyzing user needs
+Design creating system achitecture and design specifications
+Implementation coding writing and compiling the code
+Testing ensure that the software functions correctly
+Deployment releasing the software for use
+Maintenance
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
@@ -20,11 +26,11 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+INTEGRATED DEVELOPMENT ENVIRONMENTS. Tools like visual studio code provide code editing debugging and automation features to enhance productivity
+Versal control systems tools like git and subversin help track changes facilitate collaboration and maintain code integrity
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
-
+Tight deadlines
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 
@@ -32,6 +38,8 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Promt engineering is the practice of designing and refining inputs to AImodels to achieve most relevant and useful response.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+vague prompt Tell me about history
+improved promp provide a brief summary of the course of world war 1
