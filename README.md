@@ -20,20 +20,30 @@ Deployment releasing the software for use
 Maintenance
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+waterfall is Linear sequential while agile is iterative incremental
+Waterfall has a rigid structure while agile is highly adaptable
+Waterfall has late stag e testing in terms of feedback while agile gives continous feedback
 
-
+Examples
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+software developer
+designs writes and maintains codes
+implements new features and fixes bugs
+collaborates with team members on software achitectural design
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 INTEGRATED DEVELOPMENT ENVIRONMENTS. Tools like visual studio code provide code editing debugging and automation features to enhance productivity
 Versal control systems tools like git and subversin help track changes facilitate collaboration and maintain code integrity
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-Tight deadlines
+Tight deadlines Use- Agile methodologies for better adaptability
+Managing comlexities-apply modular and object orientated programmes
+keeping up with technologies -Engage in continous learning training
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
-
+Unit testing for testing individual components for functionality
+Integration testing Ensuring diferent modules work together correctly
+System testing Evaluating the entire systems behavior
+acceptance testing Verifying software meets user requirement before deployment
 #Part 2: Introduction to AI and Prompt Engineering
 
 
